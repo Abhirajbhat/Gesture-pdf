@@ -32,7 +32,7 @@ Built with **OpenCV**, **MediaPipe**, and **PyMuPDF**, this project provides an 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gesture-pdf-viewer.git
+   git clone https://github.com/Abhirajbhat/Gesture-pdf.git
    cd gesture-pdf-viewer
 2. Create a virtual environment (recommended):
      python -m venv .venv
